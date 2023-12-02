@@ -1,0 +1,22 @@
+{
+  "name": "gitrepas0",
+  "version": "1.0.0",
+  "description": "6",
+  "main": "Conduct0r.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASSeL06/GitRepas0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MASSeL06/GitRepas0/issues"
+  },
+  "homepage": "https://github.com/MASSeL06/GitRepas0#readme",
+  "keywords": [
+    "Conduct0r.js"
+  ]
+}
