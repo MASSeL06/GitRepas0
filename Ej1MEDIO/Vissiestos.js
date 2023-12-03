@@ -7,5 +7,3 @@ if (año %400 == 0 || año %4 == 0) {
 } else {
     console.log ("No loes, pero tu eres imbecil")
 }
-
-console.log("El año bisiesto se puso en 1582")
